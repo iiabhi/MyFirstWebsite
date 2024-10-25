@@ -1,0 +1,64 @@
+div{
+    background-color: black;
+    height: 80px;
+    margin-top: 0;
+    margin-bottom: 100px;
+
+}
+.navelement{
+  
+    text-transform: none;
+    margin-left:70px;
+    text-decoration-color: bisque;
+    color:aliceblue;
+    font-size: 28px;
+}
+button{
+    margin-left: 10px;
+    color:brown;
+}
+#home{
+    margin-left: 500px;
+}
+#code{
+    margin-left: 60px;
+}
+img{
+    margin-top: 23px;
+}
+#iframe1{
+    background-color: white;
+}
+iframe{
+    margin-left: 550px;
+}
+#desc{
+    background-color: white;
+    margin-top: 280px;
+}
+h2{
+    margin-left: 770px;
+}
+p{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: solid black;
+}
+#linking{
+    height: 50px;
+    width: 150px;
+    color: black;
+    background-color: aqua;
+    margin-left: 770px;
+    margin-top: 50px;
+}
+footer{
+    background-color: black;
+    height: 50px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+}
+
